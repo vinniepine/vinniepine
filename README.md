@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=36BCF7FF&text=禅&fontAlign=50&fontColor=ffffff&fontSize=55&stroke=36BCF7FF"></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=36BCF7FF&text=禅&fontAlign=50&fontColor=ffffff&fontSize=55&stroke=36BCF7FF"></a>
 </div>
 
 <div align="center">
